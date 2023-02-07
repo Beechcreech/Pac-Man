@@ -7,7 +7,7 @@ You can run this by either cloning the repository, or downloading a copy of the 
 
 ## Future 
 As my coding skills continue to develop, I might add to this project.
-###Ideas
+Ideas
 - Add ghosts, and food
 - Give the user the ability to control the direction pac-man moves
 - Pac-man will move in 2 dimensions instead of 1
